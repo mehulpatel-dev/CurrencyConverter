@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string-array name = "countryCurrency">
+        <item>CAD - Canadian Dollar</item>
+        <item>USD - US Dollar</item>
+        <item>EUR - Euro</item>
+        <item>AUD - Australian Dollar</item>
+        <item>GBP - British Pound</item>
+    </string-array>
+</resources>
